@@ -47,12 +47,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nitin-chahar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-chahar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=old-nitin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=old-nitin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitin-chahar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=old-nitin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/nitin-chahar">
+  <a href="https://github.com/old-nitin">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub" />
   </a>
   <!-- Add your LinkedIn URL when ready. -->
